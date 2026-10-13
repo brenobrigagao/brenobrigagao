@@ -5,7 +5,7 @@
 </p>
 
 <p align="center">
-  <a href="https://github.com/SEU_USUARIO">
+  <a href="https://github.com/brenobrigagao">
     <img src="https://img.shields.io/badge/GitHub-Profile-8B5CF6?style=for-the-badge&logo=github&logoColor=white" alt="GitHub Profile"/>
   </a>
   <img src="https://img.shields.io/badge/Focus-Generative%20AI-06B6D4?style=for-the-badge" alt="Generative AI"/>
@@ -83,12 +83,12 @@ My interests include building LLM-powered systems, designing retrieval pipelines
 ## 📈 GitHub Statistics
 
 <p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=SEU_USUARIO&show_icons=true&hide_border=true&bg_color=050816&title_color=8B5CF6&icon_color=06B6D4&text_color=E2E8F0&rank_icon=github" alt="GitHub statistics"/>
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SEU_USUARIO&layout=compact&hide_border=true&bg_color=050816&title_color=8B5CF6&text_color=E2E8F0" alt="Most used programming languages"/>
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=brenobrigagao&show_icons=true&hide_border=true&bg_color=050816&title_color=8B5CF6&icon_color=06B6D4&text_color=E2E8F0&rank_icon=github" alt="GitHub statistics"/>
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=brenobrigagao&layout=compact&hide_border=true&bg_color=050816&title_color=8B5CF6&text_color=E2E8F0" alt="Most used programming languages"/>
 </p>
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=SEU_USUARIO&hide_border=true&background=050816&ring=8B5CF6&fire=06B6D4&currStreakLabel=06B6D4&sideLabels=E2E8F0&currStreakNum=FFFFFF&sideNums=FFFFFF&dates=94A3B8" alt="GitHub contribution streak"/>
+  <img src="https://streak-stats.demolab.com?user=brenobrigagao&hide_border=true&background=050816&ring=8B5CF6&fire=06B6D4&currStreakLabel=06B6D4&sideLabels=E2E8F0&currStreakNum=FFFFFF&sideNums=FFFFFF&dates=94A3B8" alt="GitHub contribution streak"/>
 </p>
 
 ## 🧪 Current Learning Path
